@@ -44,3 +44,19 @@ Route::get('/pengumuman', function () {
 Route::get('/kontak', function () {
     return view('kontak');
 });
+
+Route::get('/visimisi', function () {
+    return view('visimisi');
+});
+
+Route::get('/siswai', function () {
+    return view('siswai');
+});
+
+Route::get('/pengajar', function () {
+    return view('pengajar');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});

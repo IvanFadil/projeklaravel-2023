@@ -19,7 +19,7 @@
     {{-- header --}}
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top" style="background-color: #0A1212;">
         <div class="container-lg">
-            <a class="navbar-brand" href="#"><i class="bi bi-house-heart-fill"></i> Paud Al-Fazir</a>
+            <a class="navbar-brand" href="home"><i class="bi bi-house-heart-fill"></i> Paud Al-Fazir</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -27,10 +27,10 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link " aria-current="page" href="#">Home</a>
+                        <a class="nav-link " aria-current="page" href="home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">visi & misi</a>
+                        <a class="nav-link" href="visimisi">visi & misi</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -38,11 +38,10 @@
                             Tentang
                         </a>
                         <ul class="dropdown-menu nav-pills dropdown-menu-end mt-2">
-                            <li><a class="dropdown-item active" style="background-color: #0A1212;"
-                                    href="#">Pendaftaran</a></li>
-                            <li><a class="dropdown-item" href="#">ACC Pendaftaran</a></li>
-                            <li><a class="dropdown-item" href="#">Siswa/i</a></li>
-                            <li><a class="dropdown-item" href="#">Pengajar</a></li>
+                            <li><a class="dropdown-item " href="beranda">Pendaftaran</a></li>
+                            <li><a class="dropdown-item" href="accpendaftaran">ACC Pendaftaran</a></li>
+                            <li><a class="dropdown-item" href="siswai">Siswa/i</a></li>
+                            <li><a class="dropdown-item" href="pengajar">Pengajar</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -54,7 +53,7 @@
                                     </a>
 
                                     <ul class="dropdown-menu dropdown-menu-end mt-2">
-                                        <li><a class="dropdown-item" href="#"><i
+                                        <li><a class="dropdown-item" href="login"><i
                                                     class="bi bi-person-bounding-box"></i> Profil</a></li>
                                         <li><a class="dropdown-item" href="#" data-bs-toggle="modal"
                                                 data-bs-target="#ModalUbahPassword"><i class="bi bi-key"></i> Ubah
@@ -108,7 +107,8 @@
                                     </li>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ps-2 " href="cetakkartu"><i class="bi bi-printer"></i> Cetak
+                                        <a class="nav-link ps-2 " href="cetakkartu"><i class="bi bi-printer"></i>
+                                            Cetak
                                             Kartu Pendaftaran</a>
                                     </li>
                                     <li class="nav-item">
@@ -132,9 +132,11 @@
             <div class="col-lg-9 mt-2 ">
                 <div class="card text-center">
                     <div class="card-body">
-                        <h1 class="card-title mt-5 " >Selamat Datang</h1>
-                        <p class="card-text mt-4">SELAMAT DATANG DI PORTAL PENERIMAAN PESERTA DIDIK BARU (PPDB) ONLINE <br/> PAUD AL-FAZIR <br/> TAHUN PELAJARAN 2023/2024. </p>
-                        <a href="#" class="btn link-light mt-4 mb-5" style="background-color: #0A1212;"> Daftar Klik Disini</a>
+                        <h1 class="card-title mt-5 ">Selamat Datang</h1>
+                        <p class="card-text mt-4">SELAMAT DATANG DI PORTAL PENERIMAAN PESERTA DIDIK BARU (PPDB) ONLINE
+                            <br /> PAUD AL-FAZIR <br /> TAHUN PELAJARAN 2023/2024. </p>
+                        <a href="#" class="btn link-light mt-4 mb-5" style="background-color: #0A1212;"> Daftar
+                            Klik Disini</a>
                     </div>
                 </div>
             </div>
