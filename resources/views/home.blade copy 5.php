@@ -226,94 +226,95 @@
                 <div class="col-md-7">
                     <h2 class="featurette-heading fw-normal lh-1">PERINGATAN HUT REPUBLIK INDONESIA DI PAUD AL-FAZIR
                     </h2>
-                    <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim officiis quos,
-                        optio, dolorum atque vitae ipsam iste hic eligendi officia suscipit sunt repellat facere error
-                        sequi. Placeat quis ratione asperiores, aperiam veniam dolor quasi laboriosam.</p>
-
+                    <p class="lead">Some great placeholder content for the first featurette here. Imagine some
+                        exciting prose
+                        here.</p>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <button class="btn btn-secondary me-md-2" type="button"
+                            style="background-color: #0A1212;">Selengkapnya</button>
+                    </div>
                 </div>
                 <div class="col-md-5">
                     <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
                         width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img"
                         aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%"
-                            y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
+                        <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%"
+                            fill="#aaa" dy=".3em">500x500</text>
                     </svg>
                 </div>
-                <button class="btn btn-secondary me-md-2 mt-3" type="button"
-                    style="background-color: #0A1212;">Selengkapnya</button>
             </div>
 
             <hr class="featurette-divider">
+
+            <div class="row featurette">
+                <div class="col-md-7 order-md-2">
+                    <h2 class="featurette-heading fw-normal lh-1">FASILITAS SEKOLAH</h2>
+                    <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea
+                        of how this
+                        layout would work with some actual real-world content in place.</p>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <button class="btn btn-secondary me-md-2" type="button"
+                            style="background-color: #0A1212;">Selengkapnya</button>
+                    </div>
+                </div>
+                <div class="col-md-5 order-md-1">
+                    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+                        width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img"
+                        aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Placeholder</title>
+                        <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%"
+                            fill="#aaa" dy=".3em">500x500</text>
+                    </svg>
+
+                </div>
+            </div>
+
+            <hr class="featurette-divider">
+
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading fw-normal lh-1">FASILITAS SEKOLAH </h2>
-                    <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consequatur
-                        explicabo aperiam ea fugiat perspiciatis autem ullam enim repellat, ipsam praesentium tempora
-                        esse inventore neque odit laboriosam nihil saepe odio. Dolores explicabo repudiandae alias
-                        molestiae..</p>
-
+                    <h2 class="featurette-heading fw-normal lh-1">PENGALAMAN MURID DAN ORANG TUA DI PAUD AL-FAZIR
+                    </h2>
+                    <p class="lead">And yes, this is the last block of representative placeholder content. Again, not
+                        really
+                        intended to be actually read, simply here to give you a better view of what this would look like
+                        with some
+                        actual content. Your content.</p>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <button class="btn btn-secondary me-md-2" type="button"
+                            style="background-color: #0A1212;">Selengkapnya</button>
+                    </div>
                 </div>
                 <div class="col-md-5">
                     <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
                         width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img"
                         aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%"
-                            y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
+                        <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%"
+                            fill="#aaa" dy=".3em">500x500</text>
                     </svg>
+
                 </div>
-                <button class="btn btn-secondary me-md-2 mt-3" type="button"
-                    style="background-color: #0A1212;">Selengkapnya</button>
             </div>
 
             <hr class="featurette-divider">
-            <div class="row featurette">
-                <div class="col-md-7">
-                    <h2 class="featurette-heading fw-normal lh-1">PENGALAMAN MURID DAN ORANG TUA DI PAUD AL-FAZIR </h2>
-                    <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores tempore non quod
-                        fugiat atque blanditiis dolor facere, at labore vel nostrum amet accusantium quas ullam dolorem
-                        nihil. Soluta rem minima reiciendis blanditiis ipsum earum sed esse, vel at, facere, pariatur
-                        voluptatem non. Repellat tempore aspernatur commodi architecto repudiandae rerum id!</p>
 
-                </div>
-                <div class="col-md-5">
-                    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                        width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img"
-                        aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%"
-                            y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-                    </svg>
-                </div>
-                <button class="btn btn-secondary me-md-2 mt-3" type="button"
-                    style="background-color: #0A1212;">Selengkapnya</button>
-            </div>
-            <hr class="featurette-divider">
+            <!-- /END THE FEATURETTES -->
 
-        </div>
+        </div><!-- /.container -->
 
-        <div class="m-3  ">
-            <p class="h2 text-center mb-5">Dokumentasi Kegiatan</p>
+        <div class="m-5">
             <center>
-                <img src="/assets/img/tes1.png" width="550" height="400" class="img-fluid " alt="...">
-                <img src="/assets/img/tes1.png" width="550" height="400" class="img-fluid " alt="...">
+                <img src="/assets/img/" width="550" height="400" class="img-fluid ms-5" alt="...">
+                <img src="/assets/img/tes1.png" width="550" height="400" class="img-fluid ms-5"
+                    alt="...">
             </center>
-            <div class="d-grid gap-2 col-6 mx-auto mt-5">
-                <button class="btn btn-dark" style="background-color: #0A1212;" type="button">Lihat Semua</button>
-
-            </div>
         </div>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous">
         </script>
-
-        <hr class="featurette-divider">
-
-        <div class="fixed-bottom text-center bg-light py-2 ">
-            Copyright 2023. Powered by PanpaN ~
-        </div>
 
 
     </main>
