@@ -13,6 +13,8 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
 
     <link href="css/login.css" rel="stylesheet">
 </head>
@@ -40,7 +42,7 @@
 
     <main class="form-signin w-100 m-auto">
         <form class="needs-validation" novalidate action="#" method="POST">
-            <i class="bi bi-cup-hot fs-1"></i>
+
             <h1 class="h3 mb-3 fw-normal">Al Fazir</h1>
 
             <div class="form-floating">
@@ -94,5 +96,10 @@
     </script>
 
 </body>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous">
+</script>
+
 
 </html>
