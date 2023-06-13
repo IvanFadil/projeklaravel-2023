@@ -157,10 +157,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>
@@ -179,10 +179,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>
@@ -201,10 +201,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>
@@ -224,10 +224,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>
@@ -246,10 +246,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>
@@ -268,10 +268,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>
@@ -291,10 +291,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>
@@ -313,10 +313,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>
@@ -335,10 +335,10 @@
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-eye"></i></button>
+                                        <button type="button" class="btn btn-dark btn-outline-light"><i class="bi bi-pencil-square"></i></button>
                                     </div>
-                                    <small class="text-body-secondary">9 mins</small>
+
                                 </div>
                             </div>
                         </div>

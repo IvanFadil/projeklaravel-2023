@@ -14,12 +14,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
 Route::get('/home', function () {
     return view('home');
 });
+
 
 Route::get('/beranda', function () {
     return view('beranda');
@@ -59,4 +60,8 @@ Route::get('/pengajar', function () {
 
 Route::get('/login', function () {
     return view('login');
+});
+
+Route::get('/accpendaftaran', function () {
+    return view('accpendaftaran');
 });
