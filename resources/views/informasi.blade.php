@@ -1,5 +1,6 @@
 @extends('layout.master')
 @section('title', 'Informasi Pendaftaran')
+@section('menuInformasi','active link-light')
 
 {{-- content --}}
 @section('content')

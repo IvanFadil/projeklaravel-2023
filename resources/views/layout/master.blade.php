@@ -27,10 +27,10 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link " aria-current="page" href="home">Home</a>
+                        <a class="nav-link @yield('menuHome')" aria-current="page" href="home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="visimisi">visi & misi</a>
+                        <a class="nav-link @yield('menuVisimisi')" href="visimisi">visi & misi</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -38,10 +38,10 @@
                             Tentang
                         </a>
                         <ul class="dropdown-menu nav-pills dropdown-menu-end mt-2">
-                            <li><a class="dropdown-item " href="beranda">Pendaftaran</a></li>
-                            <li><a class="dropdown-item" href="accpendaftaran">ACC Pendaftaran</a></li>
-                            <li><a class="dropdown-item" href="siswai">Siswa/i</a></li>
-                            <li><a class="dropdown-item" href="pengajar">Pengajar</a></li>
+                            <li><a class="dropdown-item @yield('menuPendaftaran')" href="beranda">Pendaftaran</a></li>
+                            <li><a class="dropdown-item @yield('menuAccpendaftaran')" href="accpendaftaran">ACC Pendaftaran</a></li>
+                            <li><a class="dropdown-item @yield('menuSiswai')" href="siswai">Siswa/i</a></li>
+                            <li><a class="dropdown-item @yield('menuPengajar')" href="pengajar">Pengajar</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -90,33 +90,33 @@
                                     aria-label="Close"></button>
                             </div>
                             <div class="offcanvas-body">
-                                <ul class="navbar-nav nav-pills flex-column justify-content-end flex-grow-1 ">
+                                <ul class="navbar-nav nav-pills flex-column justify-content-end flex-grow-1 " >
                                     <h5>Menu</h5>
                                     <li class="nav-item ">
-                                        <a class="nav-link active link-light " style="background-color: #0A1212;"
+                                        <a class="nav-link ps-2 @yield('menuBeranda')"
                                             aria-current="page" href="beranda"><i class="bi bi-house"></i>
                                             Beranda</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ps-2 " href="informasi"><i
+                                        <a class="nav-link ps-2 @yield('menuInformasi')"  href="informasi"><i
                                                 class="bi bi-journal-bookmark-fill"></i> Informasi Pendaftaran</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ps-2 " href="formulir"><i class="bi bi-pen"></i> Isi
+                                        <a class="nav-link ps-2 @yield('menuFormulir')" href="formulir"><i class="bi bi-pen"></i> Isi
                                             Formulir Pendaftaran</a>
                                     </li>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ps-2 " href="cetakkartu"><i class="bi bi-printer"></i>
+                                        <a class="nav-link ps-2 @yield('menuCetak')" href="cetakkartu"><i class="bi bi-printer"></i>
                                             Cetak
                                             Kartu Pendaftaran</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ps-2 " href="pengumuman"><i class="bi bi-megaphone"></i>
+                                        <a class="nav-link ps-2 @yield('menuPengumuman')" href="pengumuman"><i class="bi bi-megaphone"></i>
                                             Pengumuman Penerimaan</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ps-2 " href="kontak"><i
+                                        <a class="nav-link ps-2 @yield('menuKontak')" href="kontak"><i
                                                 class="bi bi-person-lines-fill"></i> Kontak Kami</a>
                                     </li>
 

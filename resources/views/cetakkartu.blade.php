@@ -1,5 +1,8 @@
 @extends('layout.master')
 @section('title', 'Cetak Kartu')
+@section('menuPendaftaran','active')
+@section('menuCetak','active link-light')
+
 
 {{-- content --}}
 @section('content')

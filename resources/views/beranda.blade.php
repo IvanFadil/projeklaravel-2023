@@ -1,5 +1,8 @@
 @extends('layout.master')
 @section('title', 'Portal PPDB')
+@section('menuPendaftaran','active')
+@section('menuBeranda','active link-light')
+
 
 {{-- content --}}
 @section('content')

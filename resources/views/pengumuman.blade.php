@@ -1,5 +1,8 @@
 @extends('layout.master')
 @section('title', 'Pengumuman')
+@section('menuPendaftaran','active')
+@section('menuPengumuman','active link-light')
+
 
 {{-- content --}}
 @section('content')
