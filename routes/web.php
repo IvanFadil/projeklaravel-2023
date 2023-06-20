@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ppdb;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,30 +22,18 @@ Route::get('/home', function () {
     return view('home');
 });
 
+Route::get('/beranda',[ppdb::class,'beranda']);
 
-Route::get('/beranda', function () {
-    return view('beranda');
-});
+Route::get('/informasi',[ppdb::class,'informasi']);
 
-Route::get('/informasi', function () {
-    return view('informasi');
-});
+Route::get('/formulir',[ppdb::class,'formulir']);
 
-Route::get('/formulir', function () {
-    return view('formulir');
-});
+Route::get('/cetakkartu',[ppdb::class,'cetak']);
 
-Route::get('/cetakkartu', function () {
-    return view('cetakkartu');
-});
+Route::get('/pengumuman',[ppdb::class,'pengumuman']);
 
-Route::get('/pengumuman', function () {
-    return view('pengumuman');
-});
+Route::get('/kontak',[ppdb::class,'kontak']);
 
-Route::get('/kontak', function () {
-    return view('kontak');
-});
 
 Route::get('/visimisi', function () {
     return view('visimisi');

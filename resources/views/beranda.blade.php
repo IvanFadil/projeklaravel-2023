@@ -14,7 +14,7 @@
             <p class="card-text mt-4">SELAMAT DATANG DI PORTAL PENERIMAAN PESERTA DIDIK BARU (PPDB) ONLINE
                 <br /> PAUD AL-FAZIR <br /> TAHUN PELAJARAN 2023/2024.
             </p>
-            <a href="#" class="btn link-light mt-4 mb-5" style="background-color: #0A1212;"> Daftar
+            <a href="informasi" class="btn link-light mt-4 mb-5" style="background-color: #0A1212;"> Daftar
                 Klik Disini</a>
         </div>
     </div>

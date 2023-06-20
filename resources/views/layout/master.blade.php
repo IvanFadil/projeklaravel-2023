@@ -17,7 +17,7 @@
 
 <body>
     {{-- header --}}
-    <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top" style="background-color: #0A1212;">
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top" >
         <div class="container-lg">
             <a class="navbar-brand" href="home"><i class="bi bi-house-heart-fill"></i> Paud Al-Fazir</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
@@ -80,7 +80,8 @@
                     <div class="container-fluid">
                         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
                             data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-                            <i class="bi bi-view-list"></i>
+                            <i class="bi bi-layout-sidebar-inset"></i>
+                            <h6> Menu </h6>
                         </button>
                         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar"
                             aria-labelledby="offcanvasNavbarLabel" style="width: 250px;">
