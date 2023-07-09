@@ -1,7 +1,8 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ppdb;
+use App\Http\Controllers\HomeController;
+use Illuminate\Support\Facades\{Route,Auth};
 
 /*
 |--------------------------------------------------------------------------
@@ -14,13 +15,11 @@ use App\Http\Controllers\ppdb;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
 
-Route::get('/home', function () {
-    return view('home');
-});
+
+// Route::get('/home', function () {
+//     return view('home');
+// });
 
 Route::get('/beranda',[ppdb::class,'beranda']);
 
@@ -54,3 +53,7 @@ Route::get('/login', function () {
 Route::get('/accpendaftaran', function () {
     return view('accpendaftaran');
 });
+
+Auth::routes();
+
+Route::get('/', HomeController::class)->name('home');

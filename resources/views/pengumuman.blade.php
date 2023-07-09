@@ -5,7 +5,7 @@
 
 
 {{-- content --}}
-@section('content')
+@section('contents')
 
 
     <div class="col-lg-9 mt-2 ">

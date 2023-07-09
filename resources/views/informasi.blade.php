@@ -3,7 +3,7 @@
 @section('menuInformasi','active link-light')
 
 {{-- content --}}
-@section('content')
+@section('contents')
 <div class="col-lg-9 mt-2 ">
     <div class="card text-center">
         <div class="card-body">
