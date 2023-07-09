@@ -20,12 +20,17 @@
     <style>
         .card {
             margin-top: 100px;
+            background-color: rgb(181, 194, 197);
         }
 
         .namapaud {
             text-align: center;
             padding-top: 50px;
             padding-bottom: 30px;
+        }
+
+        .card-header {
+            text-align: center;
         }
     </style>
 
