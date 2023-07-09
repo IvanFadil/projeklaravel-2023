@@ -20,7 +20,6 @@
     <style>
         .card {
             margin-top: 100px;
-            background-color: rgb(181, 194, 197);
         }
 
         .namapaud {
