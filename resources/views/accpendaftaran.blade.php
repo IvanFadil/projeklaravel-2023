@@ -90,7 +90,7 @@
     </div>
 
     <div class="fixed-bottom text-center bg-light py-2 ">
-        Copyright 2023. Powered by PanpaN ~
+        Copyright &copy; <?php echo date("Y"); ?> Powered By Ivan. Program Studi Teknik Informatika - PNL
     </div>
 
     </div>

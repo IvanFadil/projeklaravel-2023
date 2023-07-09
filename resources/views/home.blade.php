@@ -92,9 +92,7 @@
             height: 100%;
         }
 
-        .carousel-caption {
-            color: black;
-        }
+
     </style>
 
 
@@ -184,13 +182,7 @@
 
                     </div>
                     <div class="col-md-5">
-                        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                            width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img"
-                            aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-                            <title>Placeholder</title>
-                            <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%"
-                                y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-                        </svg>
+                        <img src="assets/img/hut.jpg" alt="Gambar Peringatan HUT" class="featurette-image img-fluid mx-auto">
                     </div>
                     <button class="btn btn-secondary me-md-2 mt-3" type="button"
                         style="background-color: #0A1212;">Selengkapnya</button>
@@ -207,13 +199,7 @@
 
                     </div>
                     <div class="col-md-5">
-                        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                            width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img"
-                            aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-                            <title>Placeholder</title>
-                            <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%"
-                                y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-                        </svg>
+                        <img src="assets/img/img-header1.jpeg" alt="Gambar Peringatan HUT" class="featurette-image img-fluid mx-auto">
                     </div>
                     <button class="btn btn-secondary me-md-2 mt-3" type="button"
                         style="background-color: #0A1212;">Selengkapnya</button>
@@ -230,13 +216,7 @@
 
                     </div>
                     <div class="col-md-5">
-                        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                            width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img"
-                            aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-                            <title>Placeholder</title>
-                            <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%"
-                                y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-                        </svg>
+                        <img src="assets/img/terimakasi.jpg" alt="Gambar Peringatan HUT" class="featurette-image img-fluid mx-auto w-100">
                     </div>
                     <button class="btn btn-secondary me-md-2 mt-3" type="button"
                         style="background-color: #0A1212;">Selengkapnya</button>
@@ -264,7 +244,7 @@
             <hr class="featurette-divider">
 
             <div class="fixed-bottom text-center bg-light py-2 ">
-                Copyright 2023. Powered by PanpaN ~
+                Copyright &copy; <?php echo date("Y"); ?> Powered By Ivan. Program Studi Teknik Informatika - PNL
             </div>
 
 
